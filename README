@@ -1,5 +1,5 @@
 Hello guys!
-This is the first Python app which i deployed using HEROKU.The app contains a choice to choose your own dataset for data analysis where you can easily find parameters like shape, information,
+This is the first Python app which i deployed using Streamlit.The app contains a choice to choose your own dataset for data analysis where you can easily find parameters like shape, information,
 overall statistics, null values, duplicated values, datatype of any datasets in a single click.
 It is made using Spyder platform available in Anaconda tool and make using python libraries like pandas, seaborn, and streamlit.
 Try it once you will enjoy using it.
